@@ -1,10 +1,12 @@
 ### Hi there 👋  I’m Tracie B.
 
-👀 I’m learning in Coding | Data Science, the new area that interesting to me
+👀 I’m learning in Coding | Data Science, the special area that amazing to me
 
 🌱 I’m currently living in Orange County, California
 
-💞️ I’m looking to collaborate on any projects with Python | Pandas | Matplotlib | HTML to gain more experiences in this tech world...
+💞️ I’m looking to collaborate on any projects with Python | Pandas | Matplotlib | SQL to gain more experiences in this industry
+
+😄 refer to my works here from repositories
 
 📫 You can reach me at: slack: Tracie Diep Bautista or linkedin as Tracie Diep Bautista
 
