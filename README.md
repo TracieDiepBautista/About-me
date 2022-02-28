@@ -8,7 +8,7 @@
 
 😄 refer to my works here from repositories
 
-📫 You can reach me at: slack: Tracie Diep Bautista or linkedin as Tracie Diep Bautista
+📫 You can reach me at: slack: Tracie Diep Bautista or linkedin as https://www.linkedin.com/in/tracynguyen10/
 
 can't wait to meet all techsavyy guys to learn...
 
