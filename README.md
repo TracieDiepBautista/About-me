@@ -1,10 +1,10 @@
 ### Hi there 👋  I’m Tracie B.
 
-👀 I’m learning in Coding | Data Science, the special area that amazing to me
+😄  My passion is condensing data into a story teller...
 
 🌱 I’m currently living in Orange County, California
 
-💞️ I’m looking to collaborate on any projects with Python | Pandas | Matplotlib | SQL to gain more experiences in this industry
+💞️ I love to collaborate on any projects about data analysis and visualization using Python | Pandas | SQL | Tableau... to gain more experiences in this industry
 
 😄 refer to my works here from repositories
 
